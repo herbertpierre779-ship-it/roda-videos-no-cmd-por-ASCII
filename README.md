@@ -18,13 +18,13 @@ Transforma vídeos em arte ASCII no **CMD do Windows**:
 
 ---
 
-## ✨ Demo
+## ✨ Demo/finalizado
 
-![Demo GIF](docs/images/demo-placeholder.gif)
+<img src="docs/images/demo-placeholder.gif" width="100%">
 
 <p align="center">
-  <img src="docs/images/screenshot-1-placeholder.png" alt="Screenshot 1" width="48%" />
-  <img src="docs/images/screenshot-2-placeholder.png" alt="Screenshot 2" width="48%" />
+  <img src="docs/images/screenshot-1-placeholder.png" alt="Screenshot 1" width="50%" />
+  <img src="docs/images/screenshot-2-placeholder.png" alt="Screenshot 2" width="50%" />
 </p>
 
 ---
@@ -136,19 +136,6 @@ Arquivos principais:
 
 ---
 
-## 🖼️ Como deixar este README bonito no seu GitHub
-
-1. Grave um GIF curto da execução (10–15s) e salve em `docs/images/demo.gif`.
-2. Tire 2 prints da tela e salve como:
-   - `docs/images/screenshot-1.png`
-   - `docs/images/screenshot-2.png`
-3. (Opcional) Depois de subir as imagens reais, troque os links dos placeholders na seção **Demo**.
-4. Faça commit e push.
-
-Pronto: o README vai exibir automaticamente o GIF + screenshots.
-
----
-
 ## 🛠️ Troubleshooting
 
 - Se “empilhar” texto no CMD:
@@ -166,4 +153,8 @@ Pronto: o README vai exibir automaticamente o GIF + screenshots.
 
 Projeto montado para reproduzir o estilo “ASCII no CMD”, com foco em visual invertido e uso fácil no Windows.
 
-- by 2πr
+<div align="center">
+
+⌬ by **2πr**
+
+</div>
