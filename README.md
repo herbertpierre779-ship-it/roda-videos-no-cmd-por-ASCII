@@ -20,10 +20,7 @@ Transforma vídeos em arte ASCII no **CMD do Windows**:
 
 ## ✨ Demo
 
-> Substitua os arquivos abaixo com seus prints/GIF para o README ficar completo.
-> Enquanto isso, os placeholders já deixam a página organizada.
-
-![Demo GIF](docs/images/demo-placeholder.mp4)
+![Demo GIF](docs/images/demo-placeholder.gif)
 
 <p align="center">
   <img src="docs/images/screenshot-1-placeholder.png" alt="Screenshot 1" width="48%" />
@@ -120,7 +117,10 @@ Arquivo: [`cmd_badapple.py`](cmd_badapple.py)
 ├─ cmd_badapple.py
 ├─ run_badapple.cmd
 ├─ bad_apple.mp4
-├─ README_BADAPPLE_CMD.md
+├─ sink song meme.mp4
+├─ sink song proibido.mp4
+├─ tun tun tun.mp4
+├─ README.md
 └─ docs/
    └─ images/
       ├─ demo.gif
